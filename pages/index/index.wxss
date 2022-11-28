@@ -1,0 +1,28 @@
+/**index.wxss**/
+.home{
+
+
+}
+
+.tst_banners{
+  height: 650rpx;
+
+}
+.tst_banners image{
+
+  width: 100vw;
+  height: 650rpx;
+
+}
+.page__bd{
+ position: relative;  /*定位 */
+  /* height: 20vh; 
+  background: green;*/
+  top:-60rpx;
+  padding: 0 28rpx;
+}
+.tst_userinfo{
+  background-color: #ffffff;
+  height: 150rpx;
+  border-radius: 15rpx;
+}
